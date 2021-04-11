@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618140892083,
+  "timestamp": 1618163482402,
   "index": "/chatapp/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/chatapp/favicon.ico",
         "/chatapp/index.html",
-        "/chatapp/main.fe223631d0b41335762b.js",
+        "/chatapp/main.29c76f0967bfd2a8e55b.js",
         "/chatapp/manifest.webmanifest",
         "/chatapp/polyfills.b4759aebd6b018238a35.js",
         "/chatapp/runtime.7b63b9fd40098a2e8207.js",
@@ -134,8 +134,8 @@
     "/chatapp/assets/vendor/select2/select2.min.css": "83b595db66fbf173436fbca475b8b695ef48eb8e",
     "/chatapp/assets/vendor/select2/select2.min.js": "fffd0bf48918d33bc612be1fefc120ee23b1a1ee",
     "/chatapp/favicon.ico": "e5c2c509eb9376f24fabda57ff532e20f450a486",
-    "/chatapp/index.html": "d0d0b64137a33a7f503103a2268028b4558d5b0a",
-    "/chatapp/main.fe223631d0b41335762b.js": "4299071477f59fc3a02fd195b18a47a776a94e92",
+    "/chatapp/index.html": "af4768ef6a8b98b3f2d1f3ef33e77467619496e4",
+    "/chatapp/main.29c76f0967bfd2a8e55b.js": "19e5826c01cff236aace2f3f540ed1393aa9ad2d",
     "/chatapp/manifest.webmanifest": "23d1ba386745c783b2264a7f3c9e76962565a311",
     "/chatapp/polyfills.b4759aebd6b018238a35.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
     "/chatapp/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
