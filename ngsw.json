@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618318788096,
+  "timestamp": 1618321744838,
   "index": "/chatapp/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/chatapp/favicon.ico",
         "/chatapp/index.html",
-        "/chatapp/main.aac4857632ef21072ada.js",
+        "/chatapp/main.700d44c3af9ec9148869.js",
         "/chatapp/manifest.webmanifest",
         "/chatapp/polyfills.b4759aebd6b018238a35.js",
         "/chatapp/runtime.7b63b9fd40098a2e8207.js",
@@ -29,14 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chatapp/assets/icons/icon-128x128.png",
-        "/chatapp/assets/icons/icon-144x144.png",
-        "/chatapp/assets/icons/icon-152x152.png",
-        "/chatapp/assets/icons/icon-192x192.png",
-        "/chatapp/assets/icons/icon-384x384.png",
-        "/chatapp/assets/icons/icon-512x512.png",
-        "/chatapp/assets/icons/icon-72x72.png",
-        "/chatapp/assets/icons/icon-96x96.png",
+        "/chatapp/assets/icons/icon.png",
         "/chatapp/assets/images/bg-01.jpg",
         "/chatapp/assets/images/icons/favicon.ico",
         "/chatapp/assets/images/icons/map-marker.png",
@@ -84,14 +77,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chatapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/chatapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/chatapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/chatapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/chatapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/chatapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/chatapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/chatapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/chatapp/assets/icons/icon.png": "57cfa8015b88081e4d5150334a252e871eab9fc0",
     "/chatapp/assets/images/bg-01.jpg": "2ca89549589e8d90e97740dbd4a1ce74bf76c778",
     "/chatapp/assets/images/icons/favicon.ico": "c072bf985086c9a05c7ecede6eedaa02f76a840c",
     "/chatapp/assets/images/icons/map-marker.png": "86d3265114b49a2ea1598cc9af7847fa0268c7e0",
@@ -134,9 +120,9 @@
     "/chatapp/assets/vendor/select2/select2.min.css": "83b595db66fbf173436fbca475b8b695ef48eb8e",
     "/chatapp/assets/vendor/select2/select2.min.js": "fffd0bf48918d33bc612be1fefc120ee23b1a1ee",
     "/chatapp/favicon.ico": "e5c2c509eb9376f24fabda57ff532e20f450a486",
-    "/chatapp/index.html": "5155e6b0564e189e11940a0334d5174ee5b42ece",
-    "/chatapp/main.aac4857632ef21072ada.js": "482508dc6da9fb5ac24556b2a3386246359a558d",
-    "/chatapp/manifest.webmanifest": "23d1ba386745c783b2264a7f3c9e76962565a311",
+    "/chatapp/index.html": "f8462e4f4e9ceadefc9a846e1e3e4bcfa227b1bb",
+    "/chatapp/main.700d44c3af9ec9148869.js": "42a4b1c8cc2b4ad6dc3b1dabe11966601f3a89fe",
+    "/chatapp/manifest.webmanifest": "ba789895206fda27f2e680bc69216ae9fd70f16b",
     "/chatapp/polyfills.b4759aebd6b018238a35.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
     "/chatapp/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/chatapp/styles.8c3d2a77aee47d30c6e0.css": "5387663ce2a3b78a2ce82b865b1110406636e2d8"
